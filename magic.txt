@@ -1,0 +1,10 @@
+Fire,53,5,10,0,0,32,Most powerful offensive magic has some ability to increase mobility and use defenses.
+Water,37,25,0,0,13,25,Encompasses both water and ice abilities. Is mostly balanced between attack and defense. Also has some control abilities.
+Earth,24,40,0,0,18,18,Best defense magic and has offensive capabilities. Also has some control abilities.
+Air,23,10,22,10,0,35,Minor offensive and defensive capabilities. Can boost mobility and provide support to others.
+Lightning,40,0,18,0,10,32,Strong offensive magic. Also has control and mobility capabilities.
+Shadow,0,0,35,13,15,37,Provides many unique abilities including teleportation and invisibilty.
+Healing,0,25,0,60,0,15,Provides support to others and has minor defensive capabilties.
+Summoning,17,17,17,17,17,15,Is balanced in all respects. Different summons can do different things.
+Illusion,0,0,0,30,50,20,Lots of control capabilities and some support.
+Light,0,35,10,15,0,40,Defensive support and mobility capabilities.

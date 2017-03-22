@@ -1,0 +1,30 @@
+Wealthy,Charisma,Wisdom,Strength,Heavy,Chest,Heavy,Head,Heavy,Legs,Heavy,Arms,Heavy,Feet,Sword,Sword,The wealthy are known for being wise and charismatic.  They only use the finest equipment.
+Barbaric,Strength,Dexterity,Charisma,Medium,Chest,Light,Head,Medium,Legs,Light,Arms,Medium,Feet,Mace,Mace,Barbarics are those who grew in and had to adapt to the harsh wilderness.
+Rebel,Perception,Charisma,Luck,Medium,Chest,Medium,Head,Medium,Legs,Light,Arms,Light,Feet,Crossbow,null,Rebels are perceptive and charismatic.  They like to exploit flaws in the government.
+Ranger,Perception,Dexterity,Vitality,Medium,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Bow,null,Rangers are trackers and hunters.  They are used to the wilderness.
+Scout,Agility,Perception,Vitality,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Dagger,Dagger,Scouts are fast and sneaky.  They are great at getting information about enemies.
+Scholar,Intelligence,Wisdom,Endurance,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Staff,null,Scholars can always be seen studying.  They love to gain new knowledge.
+Wanderer,Vitality,Agility,Wisdom,Medium,Chest,Light,Head,Medium,Legs,Light,Arms,Medium,Feet,Spear,null,Wanderers are usually found on the road traveling to new places.
+Explorer,Endurance,Luck,Intelligence,Medium,Chest,Medium,Head,Medium,Legs,Light,Arms,Medium,Feet,Bow,null,Explorers love finding new ruins and sights in the world.
+Loner,Dexterity,Vitality,Charisma,Medium,Chest,Light,Head,Medium,Legs,Light,Arms,Medium,Feet,Sword,null,Loners mostly keep to themselves and try to be self-sufficient.
+Thief,Luck,Agility,Strength,Medium,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Dagger,Dagger,Thieves are known are being excellent at acquiring select items from those who might not miss them.
+Assassin,Dexterity,Luck,Vitality,Medium,Chest,Light,Head,Medium,Legs,Light,Arms,Light,Feet,Dagger,null,Assassins are the ones that you never want after you.
+Soldier,Endurance,Strength,Wisdom,Heavy,Chest,Medium,Head,Medium,Legs,Heavy,Arms,Heavy,Feet,Shortspear,Shield,Soldiers are great warriors who are known for following orders.
+Bard,Charisma,Intelligence,Strength,Light,Chest,Light,Head,Medium,Legs,Light,Arms,Medium,Feet,Staff,null,Bards are great influencers of people and are great at gathering knowledge.
+Blacksmith,Strength,Endurance,Agility,Medium,Chest,Heavy,Head,Medium,Legs,Heavy,Arms,Heavy,Feet,Mace,null,Blacksmiths are known for their strength because they spend all day in the forge.
+Carpenter,Endurance,Intelligence,Charisma,Medium,Chest,Medium,Head,Medium,Legs,Light,Arms,Medium,Feet,Great Axe,null,Carpenters are excellent workers who never seem to tire.
+Clothier,Dexterity,Wisdom,Endurance,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Shortspear,null,Clothiers are great with their hands and gather bits of wisdom from those they work for.
+Merchant,Charisma,Luck,Dexterity,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Dagger,null,Merchants rely mainly on their charisma and a little bit of luck to close their deals.
+Spy,Intelligence,Perception,Wisdom,Medium,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Dagger,null,Spies are excellent at gathering intelligence from their enemies.
+Religious,Wisdom,Endurance,Perception,Light,Chest,Light,Head,Light,Legs,Heavy,Arms,Heavy,Feet,Spear,null,The religious gain wisdom and strength from the gods but may not be able to percieve when they are being decieved.
+Survivor,Luck,Vitality,Endurance,Medium,Chest,Light,Head,Medium,Legs,Heavy,Arms,Medium,Feet,Crossbow,null,Survivors may not count themselves lucky but others would.  They have seen the worst the world can throw at them and survived.
+Acrobat,Agility,Strength,Intelligence,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Sword,Sword,Acrobats amaze people with their incredible agilty and flexibilty.
+Monk,Wisdom,Agility,Luck,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Staff,null,Monks are try to solve problems without resorting to violence but that does not mean they are unskilled.
+Commander,Strength,Charisma,Agility,Heavy,Chest,Heavy,Head,Heavy,Legs,Heavy,Arms,Heavy,Feet,Greatsword,null,Commanders are known for leading their armies from the frontlines.  They inspire those around to continue fighting.
+Strategist,Intelligence,Perception,Dexterity,Heavy,Chest,Light,Head,Heavy,Legs,Light,Arms,Heavy,Feet,Crossbow,null,Strategists attempt to win battles by decieving their enemies.  They are usually at the back of the army trying to see the larger picture.
+Flag-Bearer,Vitality,Endurance,Luck,Heavy,Chest,Heavy,Head,Heavy,Legs,Heavy,Arms,Heavy,Feet,Great Axe,null,Flag-Bearers defend the standard of the army.  They keep the flag flying so the rest of the army has a rallying point.
+Farmer,Vitality,Strength,Perception,Light,Chest,Medium,Head,Light,Legs,Light,Arms,Light,Feet,Spear,null,Farmers are strong and enduring due to all of the time they spend working their crops.
+Guard,Perception,Vitality,Intelligence,Heavy,Chest,Heavy,Head,Heavy,Legs,Heavy,Arms,Heavy,Feet,Sword,Shield,Guards are responsible for catching the criminals of society.
+Priest,Wisdom,Charisma,Agility,Heavy,Chest,Light,Head,Heavy,Legs,Light,Arms,Light,Feet,Warhammer,null,Priests convey the words of the gods to the larger masses.  They can influence the uneducated easily.
+Rogue,Agility,Dexterity,Perception,Medium,Chest,Medium,Head,Medium,Legs,Light,Arms,Light,Feet,Axe,null,Rogues belong to the underside of society.  They can be bandits or mercaneries depending of the situtation.
+Researcher,Luck,Intelligence,Dexterity,Light,Chest,Light,Head,Light,Legs,Light,Arms,Light,Feet,Staff,null,Researchers push the boundaries of known knowledge by always looking for new discoveries wherever they may lie.
